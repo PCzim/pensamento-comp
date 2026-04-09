@@ -1,4 +1,5 @@
 Parte 1
+
 Tear de Jacquard (1804) — Programação com cartões perfurados
 Máquina a vapor de alta pressão — Mobilidade industrial
 Linha de montagem móvel (1913) — Produção em massa eficiente
