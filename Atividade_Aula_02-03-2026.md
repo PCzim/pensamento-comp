@@ -1,3 +1,8 @@
+Atividade – Aula 02/03/2026
+
+Identificação
+Nome e RGM: Joao Pedro Correia 35885513
+
 Parte 1
 
 Tear de Jacquard (1804) — Programação com cartões perfurados
