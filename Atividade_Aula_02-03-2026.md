@@ -15,6 +15,11 @@ Representa números de forma física e estruturada
 Executa operações passo a passo (lógica sequencial)
 Introduz a ideia de processamento de informação, base dos computadores modernos
 
+2) Como o pensamento computacional influenciou o desenvolvimento das arquiteturas computacionais ?
+
+O pensamento computacional influenciou as arquiteturas computacionais 
+ao traduzir ideias abstratas sobre resolução de problemas em decisões concretas de hardware.
+
 3) Calculadora do século XIX:
 
 Mecânica (engrenagens e manivelas)
@@ -26,4 +31,9 @@ Computador eletrônico moderno:
 Eletrônico/digital (transistores e chips)
 Executa múltiplos tipos de tarefas (não só cálculo)
 Programável (roda diferentes softwares e instruções)
+
+4) Explique como os algoritmos foram fundamentais para a evolucao das maquinas computacionais ?
+
+Os algoritmos influenciaram a evolução das máquinas computacionais ao 
+traduzir necessidades concretas de resolução de problemas em exigências diretas de hardware.
 
