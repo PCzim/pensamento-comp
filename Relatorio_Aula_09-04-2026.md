@@ -18,26 +18,26 @@ Relacionar a evolução acadêmica da computação com aplicações práticas at
 
 Tarefa: Escolher duas aplicações práticas do pensamento computacional nas universidades e descrevê-las. 
 
-Aplicação 1: Diagnóstico Médico Assistido por Algoritmos
-Descrição: Cursos de Medicina e Biomedicina utilizam o pensamento computacional para ensinar estudantes a estruturar o raciocínio diagnóstico como um algoritmo 
-— identificando variáveis (sintomas, exames), definindo condições lógicas ("se febre + tosse + dispneia, então…") e eliminando hipóteses por etapas. 
-Ferramentas de simulação clínica permitem que o aluno "programe" árvores de decisão diagnóstica antes mesmo de atender pacientes reais.
-Impacto: Reduz erros diagnósticos por omissão de etapas e forma profissionais capazes de colaborar diretamente com sistemas de IA na saúde, 
-como softwares de triagem e análise de imagens médicas — uma competência cada vez mais exigida pelo mercado.
+Aplicação 1: Diagnóstico médico com algoritmos 
 
-Aplicação 2: Modelagem de Fenômenos Sociais nas Ciências Humanas
-Descrição: Cursos de Sociologia, Economia e Ciências Políticas utilizam o pensamento computacional para modelar comportamentos coletivos 
-— como a disseminação de desinformação ou dinâmicas de desigualdade — por meio de simulações baseadas em agentes. 
-O aluno aprende a decompor um problema social complexo em variáveis mensuráveis e a criar modelos que testam hipóteses antes impossíveis de verificar empiricamente em larga escala.
-Impacto: Rompe a barreira histórica entre humanidades e tecnologia, capacitando pesquisadores a conduzir estudos com dados em escala real (big data social) e 
-a influenciar políticas públicas com evidências computacionalmente validadas.
+Em cursos como Medicina e Biomedicina, o pensamento computacional ajuda a organizar o raciocínio diagnóstico em etapas. O aluno analisa sintomas, cruza informações e toma decisões do tipo “se isso + isso, então pode ser aquilo”. 
+
+Impacto: 
+Reduz erros por pular etapas e prepara o profissional pra usar ferramentas de IA na prática. 
+
+Aplicação 2: Modelagem de fenômenos sociais 
+
+Em áreas como Sociologia e Economia, o pensamento computacional é usado pra entender problemas complexos, como desinformação e desigualdade. O aluno divide o problema em partes menores e usa simulações pra testar hipóteses. 
+
+Impacto: 
+Permite analisar dados em larga escala e ajuda na criação de políticas públicas mais bem embasadas. 
+
 
 5. Reflexão Crítica 
 
-O pensamento computacional ajuda os estudantes a encarar problemas difíceis de forma mais organizada e lógica. 
-Em vez de tentar resolver tudo de uma vez, o aluno aprende a dividir o problema em partes menores, encontrar padrões e criar soluções que podem ser repetidas. 
-Isso é útil tanto na vida acadêmica quanto no mercado de trabalho, já que a maioria das profissões hoje exige lidar com dados, tecnologia e decisões baseadas em evidências. 
-Como destaca Santos (2021), essa forma de pensar não é exclusiva da computação — ela se aplica a qualquer área do conhecimento.
+O pensamento computacional ajuda o aluno a lidar com problemas de forma mais organizada. Em vez de tentar resolver tudo de uma vez, ele aprende a dividir em partes menores, identificar padrões e pensar em soluções que podem ser reaproveitadas. 
+
+Isso é útil tanto nos estudos quanto no trabalho, já que hoje quase toda área envolve tecnologia, dados e tomada de decisão. 
 
 6. Bibliografia 
 
