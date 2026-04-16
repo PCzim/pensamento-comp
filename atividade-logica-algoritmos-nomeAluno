@@ -1,0 +1,50 @@
+ALGORITMO VerificarEntradaDeAlunos
+
+  INÍCIO
+
+    // Primeiro crio as informacoes necessarias
+    lista_oficial    ← ["Ana Silva", "Bruno Costa", "Carla Dias", ...]
+    fila_de_alunos   ← ["Marcos", "Juliana", "Pedro", "Roberta", ...]
+    total_verificados ← 0
+    total_negados    ← 0
+
+
+    // LAÇO PRINCIPAL: vai repetir enquanto tiver alunos
+    // esperando do lado de fora da sala
+
+    ENQUANTO fila_de_alunos NAO ESTIVER VAZIA FACA
+
+      // Depois chamao o primeiro da fila
+      aluno_atual ← REMOVER o primeiro elemento de fila_de_alunos
+
+      EXIBIR "Verificando: " + aluno_atual + "..."
+
+      // DECISÃO: o nome está na lista ?
+   
+      SE aluno_atual ESTA CONTIDO EM lista_oficial ENTÃO
+
+          // Caminho bom: aluno matriculado, tudo certo
+          EXIBIR "✔ Entrada permitida. Bem-vindo(a), " + aluno_atual + "!"
+          total_verificados ← total_verificados + 1
+
+      SENAO
+
+          // Caminho de ruim: nome nao encontrado na lista
+          EXIBIR "✘ ERRO: '" + aluno_atual + "' nao consta na lista oficial."
+          EXIBIR "   → Entrada negada. Procure a secretaria."
+          total_negados ← total_negados + 1
+
+      FIM-SE
+
+    FIM-ENQUANTO
+
+    // Fila zerou: exibe o resumo final
+
+    EXIBIR "─────────────────────────────────"
+    EXIBIR "Verificação encerrada!"
+    EXIBIR "Total de entradas permitidas : " + total_verificados
+    EXIBIR "Total de entradas negadas    : " + total_negados
+
+  FIM
+
+FIM-ALGORITMO
