@@ -1,6 +1,4 @@
-ALGORITMO VerificarEntradaDeAlunos
-
-  INÍCIO
+INÍCIO
 
     // Primeiro crio as informacoes necessarias
     lista_oficial    ← ["Ana Silva", "Bruno Costa", "Carla Dias", ...]
