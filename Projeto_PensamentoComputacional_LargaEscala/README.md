@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte da disciplina **Pensamento Computacional** no curso de Engenharia de Software, com a Profa. Kadidja Valéria.
+Este projeto foi desenvolvido como parte da disciplina **Pensamento Computacional** no curso de Ciencia da Computacao, com a Profa. Kadidja Valéria.
 
 O objetivo é aplicar os conceitos de pensamento computacional e engenharia de software na concepção de um sistema de larga escala, explorando decomposição, abstração, reconhecimento de padrões e algoritmos.
 
