@@ -97,10 +97,3 @@ Projeto\_UrbanTrack\_LargaEscala/
 ├── Desafios.md            # Lista de desafios e soluções propostas
 └── src/                   # (Nao foi realizado)
 ```
-
-\---
-
-## Autores
-
-> Projeto desenvolvido para a disciplina de Pensamento Computacional - Joao Pedro Correia - 35885513.
-
