@@ -73,3 +73,4 @@ Veículo  ──→  Operador  ──→  Passageiro
 - **Metodologia:** Nenhuma aplicada formalmente
 - **Ferramentas:** GitHub, Google, YouTube
 - **Controle de versão:** GitHub
+
